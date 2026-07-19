@@ -1,0 +1,54 @@
+name: Finalyze
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  image_picker: ^1.0.7
+  intl: ^0.19.0
+  audioplayers: ^5.2.1
+  video_player: ^2.8.1
+  google_fonts: ^6.1.0
+  url_launcher: ^6.3.0
+  cupertino_icons: ^1.0.8
+  http: ^1.2.0
+  flutter_image_compress: ^2.3.0
+  camera: ^0.11.0
+  path_provider: ^2.1.2
+  tflite_v2: ^1.0.0
+  image: ^4.0.17
+  flutter_dotenv: ^5.1.0
+  shared_preferences: ^2.5.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.13.1
+  flutter_lints: ^5.0.0
+  rename: ^3.1.0
+
+
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon/app_icon.png"
+  adaptive_icon_foreground: "assets/icon/app_icon.png"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - .env
+    - assets/images/
+    - assets/sounds/
+    - assets/videos/splash_video.mp4
+    - assets/icon/app_icon.png
+    - assets/model/fish_file_11.tflite
+    - assets/model/labels.txt
