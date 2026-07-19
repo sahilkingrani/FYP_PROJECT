@@ -257,6 +257,6 @@ This project is developed as a Final Year Project for academic purposes. Contact
 
 <div align="center">
 
-**Amna Liaqat Ali**
+**Teammate :  Sahil Kumar  Amna Liaqat Ali Maneesh Kumar Bhommika Buttani **
 
 </div>
