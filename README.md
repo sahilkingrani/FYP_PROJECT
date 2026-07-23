@@ -1,6 +1,4 @@
-<div align="center">
 
-<img src="assets/images/splash_bg_banner.jpeg" alt="Finalyze cover" width="100%" />
 
 # Finalyze
 
@@ -8,13 +6,7 @@
 
 A mobile-first application that uses on-device deep learning to determine whether a fish is **fresh, moderate, or spoiled**, then guides the user from that result through to a finished, cooked meal.
 
-[![Flutter](https://img.shields.io/badge/Frontend-Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
-[![Node.js](https://img.shields.io/badge/Backend-Node.js%20%2F%20Express-339933?logo=node.js&logoColor=white)](https://nodejs.org)
-[![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com)
-[![TensorFlow Lite](https://img.shields.io/badge/AI%20Model-TensorFlow%20Lite-FF6F00?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/lite)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](#license)
 
-</div>
 
 ---
 
@@ -28,17 +20,7 @@ This project was developed as a Final Year Project (FYP), combining computer vis
 
 ---
 
-## Screenshots
 
-<div align="center">
-
-| Home | Scan Result | Recipes |
-|:---:|:---:|:---:|
-| ![Home Screen](assets/screenshots/HomeScreen.jpeg) | ![Scan Result](assets/screenshots/ScanResult.jpeg) | ![Recipes](assets/screenshots/Recipes.jpeg) |
-
-| Cooking Flow | Scan History | Species Discovery |
-|:---:|:---:|:---:|
-| ![Cooking Flow](assets/screenshots/Cookingflow.jpeg) | ![Scan History](assets/screenshots/ScanHistory.jpeg) | ![Species Discovery](assets/screenshots/SpeciesDiscovery.jpeg) |
 
 </div>
 
