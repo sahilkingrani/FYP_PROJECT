@@ -1,5 +1,3 @@
-
-
 # Finalyze
 
 ### AI-Powered Fish Freshness Detection & Recipe Companion
